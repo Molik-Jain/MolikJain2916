@@ -1,7 +1,7 @@
 # MolikJain2916
 ## Hey there...!👋, 
 
-![I'm a CSE student](https://imgur.com/xpmCuDs.png)
+![I'm a CSE student](https://poster.keepcalmandposters.com/default/5967351_i_am_a_cse_student.png)
 
 
 #### ```I’m currently learning B.TECH CSE.```
