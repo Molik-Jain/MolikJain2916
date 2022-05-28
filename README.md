@@ -4,7 +4,6 @@
 ![I'm a CSE student](https://imgur.com/xpmCuDs.png)
 
 
-#### ```I’m currently working on automatlog.io```
 #### ```I’m currently learning B.TECH CSE.```
 
 
