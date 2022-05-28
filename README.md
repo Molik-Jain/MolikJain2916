@@ -22,7 +22,7 @@
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <br/><br/></br>
 
-<a href="https://github.com/remcohalman/github-readme-stats">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molik-Jain&layout=compact&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=FFAF02&amp;bg_color=131419"/>
 </a><br/><br/></br></br></br></br>
 
